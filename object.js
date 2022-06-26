@@ -9,4 +9,4 @@ let student = {
 student.marks = 89;
 //Print 
 
-console.log(student.name + '   ' + student.age);
+console.log('Student Name: '+student.name + ', Student Age: ' + student.age);
